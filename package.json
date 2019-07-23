@@ -1,5 +1,5 @@
 {
-  "name": "test-demo",
+  "name": "tiny-microfrontend-demo-cra",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
